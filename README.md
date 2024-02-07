@@ -1,6 +1,6 @@
 - Hello my name is Ethan Reed
 - I am interested in learning more about the world of coding.
-- I am currently learning C#, Java, and Python. I have already completed classes on HTML, CSS, JavaScript, C++, and Swift. 
+- Completed classes on HTML, CSS, JavaScript, C++, C#, Java, Python and Swift. 
 - You can reach me at my email,  Ereedd686@gmail.com
 
 <!---
